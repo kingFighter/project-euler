@@ -1,0 +1,3 @@
+*.pdf
+*.org
+!README.org

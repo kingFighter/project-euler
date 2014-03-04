@@ -1,0 +1,3 @@
+My solutions to project euler.
+
+More Details on [[kingfighter.github.io][my website]]
