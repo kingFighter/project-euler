@@ -1,0 +1,10 @@
+* Level 0
+* Level 1
+* Level 2
+* Level 3
+* Level 4
+* Level 5
+** 49
+Brute Force | 24m
+** 55
+Brute Force | (Big Number) | 1h50'

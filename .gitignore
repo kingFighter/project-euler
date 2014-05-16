@@ -1,3 +1,4 @@
 *.pdf
 *.org
 !README.org
+!Record.org
