@@ -8,3 +8,5 @@
 Brute Force | 24m
 ** 55
 Brute Force | (Big Number) | 1h50'
+** 44
+Brute Force | 24'
